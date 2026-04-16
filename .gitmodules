@@ -1,0 +1,3 @@
+[submodule "esp-camtest"]
+	path = esp-camtest
+	url = https://github.com/edoruin/esp-camtest.git
