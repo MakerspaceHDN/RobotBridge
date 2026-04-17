@@ -1,0 +1,12 @@
+{
+  "name": "robotbridge-site",
+  "version": "1.0.0",
+  "description": "RobotBridge rescue robot site",
+  "main": "index.html",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
